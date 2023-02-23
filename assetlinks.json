@@ -6,20 +6,4 @@
     "sha256_cert_fingerprints":
     ["4B:8B:20:8D:DF:ED:81:4F:95:8B:25:AE:AD:AA:2D:84:16:EB:C0:CD:97:DB:70:0D:A6:54:08:F1:D4:D0:1B:C3"]
   }
-},
-{
-  "relation": ["delegate_permission/common.get_login_creds"],
-  "target": {
-    "namespace": "web",
-    "site": "https://1rami1.github.io"
-  }
-},
-{
-  "relation": ["delegate_permission/common.get_login_creds"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.rami.randomwiki",
-    "sha256_cert_fingerprints":
-    ["4B:8B:20:8D:DF:ED:81:4F:95:8B:25:AE:AD:AA:2D:84:16:EB:C0:CD:97:DB:70:0D:A6:54:08:F1:D4:D0:1B:C3"]
-  }
 }]
